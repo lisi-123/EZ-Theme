@@ -42,22 +42,33 @@ src/
 
 ## 开始使用
 
+```bash
+git clone https://github.com/lisi-123/EZ-Theme.git
+
+```
+
+cd EZ-Theme
+
+
 ### 安装依赖
 
 ```bash
 npm install
+
 ```
 
 ### 开发环境运行
 
 ```bash
 npm run serve
+
 ```
 
 ### 生产环境构建
 
 ```bash
 npm run build
+
 ```
 
 ## 自定义配置
