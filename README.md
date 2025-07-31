@@ -40,14 +40,6 @@ src/
 └── views/              # 页面视图
 ```
 
-## 安装依赖
-
-```bash
-curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
-apt install -y nodejs
-
-```
-
 
 ## 拉取项目
 
@@ -64,6 +56,12 @@ cd EZ-Theme
 ```
 
 ### 安装依赖
+
+```bash
+curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+apt install -y nodejs
+
+```
 
 ```bash
 npm install
