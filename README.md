@@ -40,15 +40,19 @@ src/
 └── views/              # 页面视图
 ```
 
-## 开始使用
+## 拉取项目
 
 ```bash
 git clone https://github.com/lisi-123/EZ-Theme.git
 
 ```
 
+### 进入文件夹
+
+```bash
 cd EZ-Theme
 
+```
 
 ### 安装依赖
 
